@@ -19,6 +19,7 @@
 //!   println!("status: {}", res.status());
 //!   let buf = hyper::body::to_bytes(res).await.unwrap();
 //!   println!("body: {:?}", buf);
+//! });
 //! ```
 
 use futures_io::{AsyncRead, AsyncWrite};

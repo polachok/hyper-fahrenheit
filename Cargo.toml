@@ -1,6 +1,6 @@
 [package]
 name = "hyper-fahrenheit"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Alexander Polakov <a.polakov@iconic.vc>"]
 edition = "2018"
 description = "Fahrenheit adapter for hyper"
