@@ -1,4 +1,5 @@
-//! Have you ever wondered if you could run hyper on fahrenheit?
+//! Have you ever wondered if you could run [hyper](https://docs.rs/hyper) on
+//! [fahrenheit](https://docs.rs/fahrenheit/)?
 //! I bet you haven't, but yes, you can (but please don't).
 //!
 //! ## Example:
